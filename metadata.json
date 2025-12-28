@@ -1,0 +1,7 @@
+{
+  "name": "Explore ",
+  "description": "An all-in-one AI-powered travel ecosystem for flight searching, hotel booking, and intelligent itinerary planning with voice capabilities and deep reasoning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
